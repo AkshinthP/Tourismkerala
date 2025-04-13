@@ -20,7 +20,7 @@ a{
     text-decoration: none;
 }
 header{
-    background-color: orange;
+    background-color: rgb(244, 145, 15);
     padding: 20px;
     justify-content: space-between;
     display: flex;
@@ -147,5 +147,5 @@ button:hover{
     background-color: blue;
 } */
 .card.active button{
-    background-color: rgb(29, 198, 3);
+    background-color: rgb(12, 89, 0);
 }
